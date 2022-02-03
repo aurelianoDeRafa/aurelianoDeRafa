@@ -24,13 +24,13 @@ O poder da liberdade é criar algo seu!💭
 	</div>
 
   - 👻Olá, meu nome é  **Rafael Aureliano**
-  
+  - 👩‍💻Cursando **Análise e Desenvolvimento de Sistemas**
   - **🌱Atualmente focando em** 
 			 Desenvolvimento web / Front-_end_/ Back-_end_
 			 
 <br>	    
 <div> 
- <!-- <a href="https://www.youtube.com/channel/UCl49pGaVdw8rX5hbi5jVsmQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ <!-- <a href="https://www.youtube.com/channel/UCl49pGaVdw8rX5hbi5jVsmQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
   <a href="https://www.instagram.com/leafar.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4555F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<!--<a href = "mailto:contato@rafaballerini.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>--> 
   <a href="https://www.linkedin.com/in/rafael-aureliano-1923a421b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
