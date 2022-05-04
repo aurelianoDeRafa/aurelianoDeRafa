@@ -24,7 +24,7 @@ O poder da liberdade é criar algo seu!💭
 	</div>
 
   - 👻Olá, meu nome é  **Rafael Aureliano**
-  - 👩‍💻Cursando **Análise e Desenvolvimento de Sistemas**
+  
   - **🌱Atualmente focando em** 
 			 Desenvolvimento web / Front-_end_/ Back-_end_
 			 
