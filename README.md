@@ -38,7 +38,7 @@ O poder da liberdade é criar algo seu!💭
 </div>
 
 
-<a href="https://aurelianoderafa.github.io/projetoPortfolio/" target="_blank" align="center"><img src="https://user-images.githubusercontent.com/89578226/135945005-e5863f43-a893-43bc-8bc6-a5d10a3e7755.png" target="_blank"></a>
+<a href="https://github.com/aurelianoDeRafa/projetoPortfolio2" target="_blank" align="center"><img src="https://user-images.githubusercontent.com/89578226/135945005-e5863f43-a893-43bc-8bc6-a5d10a3e7755.png" target="_blank"></a>
 
 
 
